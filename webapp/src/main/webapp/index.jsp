@@ -1,7 +1,7 @@
 <form action="action_page.php">
   <div class="container">
     <h1>May 2022 be the best year of your life.</h1>
-    <p>Please fill in this form to create an account.</p>
+    <p>Get yourself a good luck account</p>
     <hr>
      
     <label for="Name"><b>Enter Name</b></label>
