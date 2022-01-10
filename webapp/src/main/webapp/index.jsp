@@ -1,6 +1,6 @@
 <form action="action_page.php">
   <div class="container">
-    <h1>Welcome to this personal form. Hello 2022 and may you all have the best time in your life!</h1>
+    <h1>May 2022 be the best year of your life.</h1>
     <p>Please fill in this form to create an account.</p>
     <hr>
      
